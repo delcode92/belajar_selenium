@@ -1,0 +1,169 @@
+1719624453974	geckodriver	INFO	Listening on 127.0.0.1:54672
+1719624457101	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-headless" "--remote-debuggin ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FELIXJ~1\\AppData\\Local\\Temp\\rust_mozprofilej1HKPX"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719624457852	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-headless"
+1719624457944	Marionette	INFO	Listening on port 54683
+WebDriver BiDi listening on ws://127.0.0.1:54673
+Read port: 54683
+1719624458122	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54673/devtools/browser/ff55c521-80ee-4416-9918-1edaa7ff6824
+1719624459381	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1719624488449	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+HOFHsG"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719624517143	Marionette	INFO	Marionette enabled
+1719624517208	Marionette	INFO	Listening on port 54742
+WebDriver BiDi listening on ws://127.0.0.1:54733
+Read port: 54742
+1719624517354	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54733/devtools/browser/4a247637-7709-4d01-83ed-9d883bb161b6
+1719624518418	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1719624547660	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+Exiting due to channel error.
+Exiting due to channel error.
+e" "-profile" "C:\\Users\\FELIXJ~1\\AppData\\Local\\Temp\\rust_mozprofileXykKwO"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719624564410	Marionette	INFO	Marionette enabled
+1719624564473	Marionette	INFO	Listening on port 54801
+WebDriver BiDi listening on ws://127.0.0.1:54794
+Read port: 54801
+1719624564615	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54794/devtools/browser/c5f19250-0923-4c53-b87e-3b13ff705080
+1719624565728	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1719624574189	Marionette	INFO	Stopped listening on port 54801
+JavaScript warning: https://vercel.com/_next/static/chunks/91240.8a1af41124cd5e61.js?dpl=dpl_3K71sXcPmWNz8fLL9YgLD8kQ8WXo, line 11: Script terminated by timeout at:
+r@https://vercel.com/_next/static/chunks/91240.8a1af41124cd5e61.js?dpl=dpl_3K71sXcPmWNz8fLL9YgLD8kQ8WXo:11:2820
+
+Dynamically enable window occlusion 1
+1719624593782	geckodriver	INFO	Listening on 127.0.0.1:54852
+1719624596829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "548 ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FELIXJ~1\\AppData\\Local\\Temp\\rust_mozprofile1EvzIQ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719624597136	Marionette	INFO	Marionette enabled
+1719624597199	Marionette	INFO	Listening on port 54860
+WebDriver BiDi listening on ws://127.0.0.1:54853
+Read port: 54860
+1719624597352	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54853/devtools/browser/0bdce944-a9c1-416f-b890-5f3e50acd3a8
+1719624598469	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1719624605533	Marionette	INFO	Stopped listening on port 54860
+JavaScript warning: https://vercel.com/_next/static/chunks/91240.8a1af41124cd5e61.js?dpl=dpl_3K71sXcPmWNz8fLL9YgLD8kQ8WXo, line 11: Script terminated by timeout at:
+r@https://vercel.com/_next/static/chunks/91240.8a1af41124cd5e61.js?dpl=dpl_3K71sXcPmWNz8fLL9YgLD8kQ8WXo:11:2820
+
+Dynamically enable window occlusion 1
+1719624633832	geckodriver	INFO	Listening on 127.0.0.1:54908
+1719624636896	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "549 ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FELIXJ~1\\AppData\\Local\\Temp\\rust_mozprofileEe7lw9"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719624637279	Marionette	INFO	Marionette enabled
+1719624637346	Marionette	INFO	Listening on port 54918
+WebDriver BiDi listening on ws://127.0.0.1:54909
+Read port: 54918
+1719624637556	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54909/devtools/browser/2e615ef7-085b-44e5-a893-5955033034d6
+1719624638791	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1719624667912	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+1719625199295	geckodriver	INFO	Listening on 127.0.0.1:55092
+1719625202343	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55093" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FELIXJ~1\\AppData\\Local\\Temp\\rust_mozprofileA4OePS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719625202659	Marionette	INFO	Marionette enabled
+1719625202729	Marionette	INFO	Listening on port 55100
+WebDriver BiDi listening on ws://127.0.0.1:55093
+Read port: 55100
+1719625202897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55093/devtools/browser/d0bfd078-2edf-400e-a38d-83e80cf8d3ef
+1719625204580	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1719625207137	Marionette	INFO	Stopped listening on port 55100
+JavaScript warning: https://vercel.com/_next/static/chunks/2277fd79-d2d676a5f17da46d.js?dpl=dpl_3K71sXcPmWNz8fLL9YgLD8kQ8WXo, line 3: Script terminated by timeout at:
+i3@https://vercel.com/_next/static/chunks/2277fd79-d2d676a5f17da46d.js?dpl=dpl_3K71sXcPmWNz8fLL9YgLD8kQ8WXo:3:105440
+
+Dynamically enable window occlusion 1
+1719625905190	geckodriver	INFO	Listening on 127.0.0.1:55291
+1719625908234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55292" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FELIXJ~1\\AppData\\Local\\Temp\\rust_mozprofileWWXUEN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719625908543	Marionette	INFO	Marionette enabled
+1719625908610	Marionette	INFO	Listening on port 55300
+WebDriver BiDi listening on ws://127.0.0.1:55292
+Read port: 55300
+1719625908769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55292/devtools/browser/0ebd7147-7361-4f64-a99e-acb7bfa59ea1
+1719625910244	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1719625939127	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: "buildList failed: " ({})
+n 127.0.0.1:55373
+1719626013542	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55374" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FELIXJ~1\\AppData\\Local\\Temp\\rust_mozprofileGTCTdq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719626013859	Marionette	INFO	Marionette enabled
+1719626013925	Marionette	INFO	Listening on port 55381
+WebDriver BiDi listening on ws://127.0.0.1:55374
+Read port: 55381
+1719626014072	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55374/devtools/browser/fce24fe0-b5cc-4c73-8113-ce19232a5a34
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://belajar-nextjs-alfi.vercel.app."
+1719626015768	Marionette	INFO	Stopped listening on port 55381
+Dynamically enable window occlusion 1
+1719626078799	geckodriver	INFO	Listening on 127.0.0.1:55409
+1719626081875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "554 ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FELIXJ~1\\AppData\\Local\\Temp\\rust_mozprofileJ5POgZ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719626082178	Marionette	INFO	Marionette enabled
+1719626082240	Marionette	INFO	Listening on port 55417
+WebDriver BiDi listening on ws://127.0.0.1:55410
+Read port: 55417
+1719626082382	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55410/devtools/browser/dab9814d-5b58-4b27-9c7b-600a57c95c2e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://belajar-nextjs-alfi.vercel.app."
+1719626088768	Marionette	INFO	Stopped listening on port 55417
+Dynamically enable window occlusion 1
