@@ -167,3 +167,266 @@ DevTools listening on ws://127.0.0.1:55410/devtools/browser/dab9814d-5b58-4b27-9
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://belajar-nextjs-alfi.vercel.app."
 1719626088768	Marionette	INFO	Stopped listening on port 55417
 Dynamically enable window occlusion 1
+1719635402756	geckodriver	INFO	Listening on 127.0.0.1:5323
+1719635405830	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "5324" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FELIXJ~1\\AppData\\Local\\Temp\\rust_mozprofileHuldEg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719635406594	Marionette	INFO	Marionette enabled
+1719635406683	Marionette	INFO	Listening on port 5331
+WebDriver BiDi listening on ws://127.0.0.1:5324
+Read port: 5331
+1719635406883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:5324/devtools/browser/13be123e-1d68-4255-9600-bcac9d821f97
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://belajar-nextjs-alfi.vercel.app."
+1719635409355	Marionette	INFO	Stopped listening on port 5331
+Dynamically enable window occlusion 1
+1719635489327	geckodriver	INFO	Listening on 127.0.0.1:5359
+1719635492419	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "5360" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FELIXJ~1\\AppData\\Local\\Temp\\rust_mozprofileOMgrLt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719635492746	Marionette	INFO	Marionette enabled
+1719635492812	Marionette	INFO	Listening on port 5369
+WebDriver BiDi listening on ws://127.0.0.1:5360
+Read port: 5369
+1719635492967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:5360/devtools/browser/42cbf4bb-7769-49dc-9884-9a5e1695fd58
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://belajar-nextjs-alfi.vercel.app."
+1719635494869	Marionette	INFO	Stopped listening on port 5369
+Dynamically enable window occlusion 1
+1719636143895	geckodriver	INFO	Listening on 127.0.0.1:5418
+1719636146948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5419 ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FELIXJ~1\\AppData\\Local\\Temp\\rust_mozprofileedSge0"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719636147270	Marionette	INFO	Marionette enabled
+1719636147335	Marionette	INFO	Listening on port 5426
+WebDriver BiDi listening on ws://127.0.0.1:5419
+Read port: 5426
+1719636147471	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:5419/devtools/browser/7e14c272-fd38-4ad0-bf9d-16d58ff2a39f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://belajar-nextjs-alfi.vercel.app."
+1719636153847	Marionette	INFO	Stopped listening on port 5426
+Dynamically enable window occlusion 1
+1719636175675	geckodriver	INFO	Listening on 127.0.0.1:5470
+1719636178709	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "547 ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FELIXJ~1\\AppData\\Local\\Temp\\rust_mozprofilebGgKqg"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719636179020	Marionette	INFO	Marionette enabled
+1719636179080	Marionette	INFO	Listening on port 5478
+WebDriver BiDi listening on ws://127.0.0.1:5471
+Read port: 5478
+1719636179219	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:5471/devtools/browser/768b1bb6-a2e0-416e-82f0-6cd16bddeb9e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://belajar-nextjs-alfi.vercel.app."
+1719636185715	Marionette	INFO	Stopped listening on port 5478
+Dynamically enable window occlusion 1
+1719636202090	geckodriver	INFO	Listening on 127.0.0.1:5517
+1719636205199	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "551 ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FELIXJ~1\\AppData\\Local\\Temp\\rust_mozprofilesmbBsf"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719636205532	Marionette	INFO	Marionette enabled
+1719636205595	Marionette	INFO	Listening on port 5525
+WebDriver BiDi listening on ws://127.0.0.1:5518
+Read port: 5525
+1719636205733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:5518/devtools/browser/490d5753-4929-4be5-be6a-1356e9024110
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://belajar-nextjs-alfi.vercel.app."
+1719636212014	Marionette	INFO	Stopped listening on port 5525
+Dynamically enable window occlusion 1
+1719636227815	geckodriver	INFO	Listening on 127.0.0.1:5565
+1719636230874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5566 ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FELIXJ~1\\AppData\\Local\\Temp\\rust_mozprofilev7V1yK"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719636231203	Marionette	INFO	Marionette enabled
+1719636231265	Marionette	INFO	Listening on port 5573
+WebDriver BiDi listening on ws://127.0.0.1:5566
+Read port: 5573
+1719636231405	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:5566/devtools/browser/12683671-d800-4746-a73e-3762fd39995a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://belajar-nextjs-alfi.vercel.app."
+1719636237727	Marionette	INFO	Stopped listening on port 5573
+Dynamically enable window occlusion 1
+1719636387015	geckodriver	INFO	Listening on 127.0.0.1:5629
+1719636390102	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "563 ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FELIXJ~1\\AppData\\Local\\Temp\\rust_mozprofileArwUhN"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719636390424	Marionette	INFO	Marionette enabled
+1719636390488	Marionette	INFO	Listening on port 5637
+WebDriver BiDi listening on ws://127.0.0.1:5630
+Read port: 5637
+1719636390632	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:5630/devtools/browser/153d5860-8efd-4afe-a2f9-e8fff5151327
+1719636400928	Marionette	INFO	Stopped listening on port 5637
+Dynamically enable window occlusion 1
+1719636778075	geckodriver	INFO	Listening on 127.0.0.1:5753
+1719636781138	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "5754" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FELIXJ~1\\AppData\\Local\\Temp\\rust_mozprofileNJOBK5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719636781471	Marionette	INFO	Marionette enabled
+1719636781539	Marionette	INFO	Listening on port 5761
+WebDriver BiDi listening on ws://127.0.0.1:5754
+Read port: 5761
+1719636781687	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:5754/devtools/browser/a1b0cbbf-40ac-4cc1-bd91-841dcf6675d6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://belajar-nextjs-alfi.vercel.app."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://belajar-nextjs-alfi.vercel.app."
+1719636793782	Marionette	INFO	Stopped listening on port 5761
+Dynamically enable window occlusion 1
+1719636951788	geckodriver	INFO	Listening on 127.0.0.1:5842
+1719636954857	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "5843" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FELIXJ~1\\AppData\\Local\\Temp\\rust_mozprofileeIhgHo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719636955173	Marionette	INFO	Marionette enabled
+1719636955243	Marionette	INFO	Listening on port 5850
+WebDriver BiDi listening on ws://127.0.0.1:5843
+Read port: 5850
+1719636955396	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:5843/devtools/browser/f9bbcc1a-bb43-44ae-901c-201675afca15
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://belajar-nextjs-alfi.vercel.app."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://belajar-nextjs-alfi.vercel.app."
+1719636967594	Marionette	INFO	Stopped listening on port 5850
+Dynamically enable window occlusion 1
+1719636998665	geckodriver	INFO	Listening on 127.0.0.1:5891
+1719637001714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "589 ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FELIXJ~1\\AppData\\Local\\Temp\\rust_mozprofileRIxWRc"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719637002028	Marionette	INFO	Marionette enabled
+1719637002093	Marionette	INFO	Listening on port 5899
+WebDriver BiDi listening on ws://127.0.0.1:5892
+Read port: 5899
+1719637002256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:5892/devtools/browser/03de0323-39fc-4ca9-8ac4-d78b1c1022ea
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://belajar-nextjs-alfi.vercel.app."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://belajar-nextjs-alfi.vercel.app."
+1719637013953	Marionette	INFO	Stopped listening on port 5899
+Dynamically enable window occlusion 1
+1719637032167	geckodriver	INFO	Listening on 127.0.0.1:5937
+1719637035237	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "5938" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FELIXJ~1\\AppData\\Local\\Temp\\rust_mozprofileqSE2gu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719637035570	Marionette	INFO	Marionette enabled
+1719637035639	Marionette	INFO	Listening on port 5946
+WebDriver BiDi listening on ws://127.0.0.1:5938
+Read port: 5946
+1719637035781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:5938/devtools/browser/88f674d2-d155-482e-8f72-819b28b7846e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://belajar-nextjs-alfi.vercel.app."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://belajar-nextjs-alfi.vercel.app."
+1719637048115	Marionette	INFO	Stopped listening on port 5946
+Dynamically enable window occlusion 1
+1719637246563	geckodriver	INFO	Listening on 127.0.0.1:5995
+1719637249613	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "5996" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FELIXJ~1\\AppData\\Local\\Temp\\rust_mozprofileTtnHgR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719637249957	Marionette	INFO	Marionette enabled
+1719637250034	Marionette	INFO	Listening on port 6003
+WebDriver BiDi listening on ws://127.0.0.1:5996
+Read port: 6003
+1719637250227	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:5996/devtools/browser/ebd134f5-d1b9-4271-8223-89c006946774
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://belajar-nextjs-alfi.vercel.app."
+1719637253549	Marionette	INFO	Stopped listening on port 6003
+Dynamically enable window occlusion 1
+1719637267606	geckodriver	INFO	Listening on 127.0.0.1:6029
+1719637270685	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "603 ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FELIXJ~1\\AppData\\Local\\Temp\\rust_mozprofilenZHJLA"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719637271002	Marionette	INFO	Marionette enabled
+1719637271065	Marionette	INFO	Listening on port 6037
+WebDriver BiDi listening on ws://127.0.0.1:6030
+Read port: 6037
+1719637271207	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:6030/devtools/browser/1757a15d-f2da-49a6-af6c-59e33480181b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://belajar-nextjs-alfi.vercel.app."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://belajar-nextjs-alfi.vercel.app."
+1719637282896	Marionette	INFO	Stopped listening on port 6037
+Dynamically enable window occlusion 1
+1719637438898	geckodriver	INFO	Listening on 127.0.0.1:6084
+1719637441989	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "608 ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FELIXJ~1\\AppData\\Local\\Temp\\rust_mozprofileRWOVAN"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719637442336	Marionette	INFO	Marionette enabled
+1719637442397	Marionette	INFO	Listening on port 6092
+WebDriver BiDi listening on ws://127.0.0.1:6085
+Read port: 6092
+1719637442527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:6085/devtools/browser/4cf37f3d-b4eb-40e4-889c-e4369c45d06d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://belajar-nextjs-alfi.vercel.app."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://belajar-nextjs-alfi.vercel.app."
+1719637449199	Marionette	INFO	Stopped listening on port 6092
+Dynamically enable window occlusion 1
+1719637536213	geckodriver	INFO	Listening on 127.0.0.1:6134
+1719637539260	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "613 ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FELIXJ~1\\AppData\\Local\\Temp\\rust_mozprofileDCCSXY"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719637539579	Marionette	INFO	Marionette enabled
+1719637539643	Marionette	INFO	Listening on port 6142
+WebDriver BiDi listening on ws://127.0.0.1:6135
+Read port: 6142
+1719637539789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:6135/devtools/browser/530bb2f1-1388-4415-88dc-a775a865cfc8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://belajar-nextjs-alfi.vercel.app."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://belajar-nextjs-alfi.vercel.app."
+1719637570062	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+Exiting due to channel error.
+cal\\Temp\\rust_mozprofileAJyQeH"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719637563872	Marionette	INFO	Marionette enabled
+1719637563935	Marionette	INFO	Listening on port 6185
+WebDriver BiDi listening on ws://127.0.0.1:6178
+Read port: 6185
+1719637564087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:6178/devtools/browser/1362d049-1fad-41f0-9177-3ba94eb08af6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://belajar-nextjs-alfi.vercel.app."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://belajar-nextjs-alfi.vercel.app."
+1719637570775	Marionette	INFO	Stopped listening on port 6185
+Dynamically enable window occlusion 1
